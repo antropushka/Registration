@@ -1,0 +1,4 @@
+kondral:User{login='kondral', password='59_8423032', email='akondralAlex@yandex.ru', telephoneNum='+375293891995'}
+antropova:User{login='antropova', password='593032', email='artiom185400@gmail.com', telephoneNum='+375339549300'}
+bogdanovich:User{login='bogdanovich', password='5e31132', email='bogdanovichV@mail.ru', telephoneNum='+375445683455'}
+tkachovAA:User{login='tkachovAA', password='5ec493_2', email='artiomtkachoy@yandex.ru', telephoneNum='+375291631278'}
